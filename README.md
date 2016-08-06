@@ -1,0 +1,1 @@
+A very simple Chrome extension to improve the web user experience.
